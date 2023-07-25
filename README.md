@@ -4,7 +4,7 @@ pip升级软件包的体验，简直了。
 所以有了这个东西。  
 
 # 使用
-从[Release页面](https://github.com/TheWhiteDog9487/upgrade-all-pip-packagee/releases)下载exe文件，双击运行。  
+从[Release页面](https://github.com/TheWhiteDog9487/upgrade-all-pip-packagee/releases)下载Release.zip，解压所有文件并运行“升级Python包.exe”。  
 出现"完成，按回车退出。"后，升级完成。
 
 # 构造
